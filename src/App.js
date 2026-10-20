@@ -8,7 +8,7 @@ function App() {
     <div>
       <News />
     </div>
-  );
+  )
 }
 
 export default App;
